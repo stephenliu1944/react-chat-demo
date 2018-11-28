@@ -1,0 +1,14 @@
+.message{
+    height: 30px;
+    line-height: 30px;
+    list-style: none;
+}
+.name{
+    margin-right: 10px;
+}
+.info{
+    margin-right: 5px;
+}
+.read{
+
+}

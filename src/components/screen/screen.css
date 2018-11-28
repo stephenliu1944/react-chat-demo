@@ -1,0 +1,6 @@
+.screen{
+    height: 200px;
+    border: 1px solid;
+    margin-bottom: 10px;
+    overflow-y: auto;
+}
